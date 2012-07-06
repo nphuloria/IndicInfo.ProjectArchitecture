@@ -5,7 +5,10 @@ using System.Text;
 
 namespace IndicInfo.UnityContainerExtension
 {
-    public class Class1
+    public class UnityContainerExtension
     {
+        public UnityContainerExtension()
+        {
+        }
     }
 }
