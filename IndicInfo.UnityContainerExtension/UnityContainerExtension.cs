@@ -14,5 +14,9 @@ namespace IndicInfo.UnityContainerExtension
         public void MyContainer()
         {
         }
+
+        public void MyNewContainer()
+        {
+        }
     }
 }
