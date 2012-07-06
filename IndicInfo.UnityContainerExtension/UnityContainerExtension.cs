@@ -10,5 +10,9 @@ namespace IndicInfo.UnityContainerExtension
         public UnityContainerExtension()
         {
         }
+
+        public void MyContainer()
+        {
+        }
     }
 }
