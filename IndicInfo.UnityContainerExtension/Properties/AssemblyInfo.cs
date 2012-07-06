@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("IndicInfo.ExceptionHandling")]
+[assembly: AssemblyTitle("IndicInfo.UnityContainerExtension")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Hewlett-Packard")]
-[assembly: AssemblyProduct("IndicInfo.ExceptionHandling")]
-[assembly: AssemblyCopyright("Copyright © Hewlett-Packard 2012")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("IndicInfo.UnityContainerExtension")]
+[assembly: AssemblyCopyright("Copyright ©  2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("f1b2a3c2-2584-476f-aafd-d3ec721416ae")]
+[assembly: Guid("897f3c7d-b90d-4472-916f-39b9cc27a5bb")]
 
 // Version information for an assembly consists of the following four values:
 //
