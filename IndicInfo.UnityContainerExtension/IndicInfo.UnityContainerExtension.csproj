@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>897f3c7d-b90d-4472-916f-39b9cc27a5bb</ProjectGuid>
+    <ProjectGuid>{4740D148-E59F-493D-842D-36BCB1C2E327}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>IndicInfo.UnityContainerExtension</RootNamespace>

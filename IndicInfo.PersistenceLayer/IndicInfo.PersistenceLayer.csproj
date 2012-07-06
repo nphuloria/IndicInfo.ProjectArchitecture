@@ -40,9 +40,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
-    <Compile Include="class2.cs" />
-    <Compile Include="Class3.cs" />
     <Compile Include="NewClass.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

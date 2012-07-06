@@ -1,0 +1,5 @@
+D:\Office Projects\Microsoft.Net\IndicInfo.ProjectArchitecture\IndicInfo.UnityContainerExtension\bin\Debug\IndicInfo.UnityContainerExtension.dll
+D:\Office Projects\Microsoft.Net\IndicInfo.ProjectArchitecture\IndicInfo.UnityContainerExtension\bin\Debug\IndicInfo.UnityContainerExtension.pdb
+D:\Office Projects\Microsoft.Net\IndicInfo.ProjectArchitecture\IndicInfo.UnityContainerExtension\obj\Debug\ResolveAssemblyReference.cache
+D:\Office Projects\Microsoft.Net\IndicInfo.ProjectArchitecture\IndicInfo.UnityContainerExtension\obj\Debug\IndicInfo.UnityContainerExtension.dll
+D:\Office Projects\Microsoft.Net\IndicInfo.ProjectArchitecture\IndicInfo.UnityContainerExtension\obj\Debug\IndicInfo.UnityContainerExtension.pdb
