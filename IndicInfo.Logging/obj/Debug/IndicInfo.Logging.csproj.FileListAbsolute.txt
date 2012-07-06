@@ -1,0 +1,5 @@
+D:\Office Projects\Microsoft.Net\IndicInfo.ProjectArchitecture\IndicInfo.Logging\bin\Debug\IndicInfo.Logging.dll
+D:\Office Projects\Microsoft.Net\IndicInfo.ProjectArchitecture\IndicInfo.Logging\bin\Debug\IndicInfo.Logging.pdb
+D:\Office Projects\Microsoft.Net\IndicInfo.ProjectArchitecture\IndicInfo.Logging\obj\Debug\ResolveAssemblyReference.cache
+D:\Office Projects\Microsoft.Net\IndicInfo.ProjectArchitecture\IndicInfo.Logging\obj\Debug\IndicInfo.Logging.dll
+D:\Office Projects\Microsoft.Net\IndicInfo.ProjectArchitecture\IndicInfo.Logging\obj\Debug\IndicInfo.Logging.pdb

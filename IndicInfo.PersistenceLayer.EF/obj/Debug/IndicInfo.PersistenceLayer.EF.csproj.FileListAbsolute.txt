@@ -1,0 +1,5 @@
+D:\Office Projects\Microsoft.Net\IndicInfo.ProjectArchitecture\IndicInfo.PersistenceLayer.EF\bin\Debug\IndicInfo.PersistenceLayer.EF.dll
+D:\Office Projects\Microsoft.Net\IndicInfo.ProjectArchitecture\IndicInfo.PersistenceLayer.EF\bin\Debug\IndicInfo.PersistenceLayer.EF.pdb
+D:\Office Projects\Microsoft.Net\IndicInfo.ProjectArchitecture\IndicInfo.PersistenceLayer.EF\obj\Debug\ResolveAssemblyReference.cache
+D:\Office Projects\Microsoft.Net\IndicInfo.ProjectArchitecture\IndicInfo.PersistenceLayer.EF\obj\Debug\IndicInfo.PersistenceLayer.EF.dll
+D:\Office Projects\Microsoft.Net\IndicInfo.ProjectArchitecture\IndicInfo.PersistenceLayer.EF\obj\Debug\IndicInfo.PersistenceLayer.EF.pdb

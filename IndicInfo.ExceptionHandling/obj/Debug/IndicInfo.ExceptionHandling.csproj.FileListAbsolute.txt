@@ -1,0 +1,5 @@
+D:\Office Projects\Microsoft.Net\IndicInfo.ProjectArchitecture\IndicInfo.ExceptionHandling\bin\Debug\IndicInfo.ExceptionHandling.dll
+D:\Office Projects\Microsoft.Net\IndicInfo.ProjectArchitecture\IndicInfo.ExceptionHandling\bin\Debug\IndicInfo.ExceptionHandling.pdb
+D:\Office Projects\Microsoft.Net\IndicInfo.ProjectArchitecture\IndicInfo.ExceptionHandling\obj\Debug\ResolveAssemblyReference.cache
+D:\Office Projects\Microsoft.Net\IndicInfo.ProjectArchitecture\IndicInfo.ExceptionHandling\obj\Debug\IndicInfo.ExceptionHandling.dll
+D:\Office Projects\Microsoft.Net\IndicInfo.ProjectArchitecture\IndicInfo.ExceptionHandling\obj\Debug\IndicInfo.ExceptionHandling.pdb
