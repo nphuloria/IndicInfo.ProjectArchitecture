@@ -1,4 +1,4 @@
-﻿namespace IndicInfo.Mapper
+﻿namespace IndicInfo.CommonLayer.Mapper
 {
     public interface IMapper
     {

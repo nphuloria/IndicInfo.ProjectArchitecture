@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace IndicInfo.CommonLayer.Exception
+namespace IndicInfo.BusinessLayer.Services
 {
-    public class ExceptionHandler
+    public class Class1
     {
     }
 }

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("IndicInfo.CommonLayer.Logging")]
+[assembly: AssemblyTitle("IndicInfo.BusinessLayer.Services")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("IndicInfo India Pvt Ltd")]
-[assembly: AssemblyProduct("IndicInfo.CommonLayer.Logging")]
+[assembly: AssemblyProduct("IndicInfo.BusinessLayer.Services")]
 [assembly: AssemblyCopyright("Copyright © IndicInfo India Pvt Ltd 2012")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("95ef926e-3047-4c97-9bb5-2bc5550e73f5")]
+[assembly: Guid("d5c3ae61-5efd-4005-b47c-9eb3a9e15158")]
 
 // Version information for an assembly consists of the following four values:
 //
